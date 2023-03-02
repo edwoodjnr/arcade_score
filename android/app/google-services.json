@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "498270152739",
+    "project_id": "arcadescore-358412",
+    "storage_bucket": "arcadescore-358412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498270152739:android:466fbc5b60ae3445376996",
+        "android_client_info": {
+          "package_name": "com.mycompany.imgtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498270152739-frnkh02lmmj25qos3420qspvr50887r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.imgtest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "498270152739-3eajl9n8n13n4bo8nqjthl5r8eh4n9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IqoMEQw9wTwzoTdcZy-WAJLMSuXGDjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498270152739-3eajl9n8n13n4bo8nqjthl5r8eh4n9b3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498270152739-8bvbrfk8sfq708125ukgpr6acfn8ra92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.imgtest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498270152739:android:9ea0dd7f978af68b376996",
+        "android_client_info": {
+          "package_name": "com.softwaregb.arcadescore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498270152739-d1p734tb8n5bs5llfflbjbuvqco2btsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwaregb.arcadescore",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "498270152739-3eajl9n8n13n4bo8nqjthl5r8eh4n9b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_IqoMEQw9wTwzoTdcZy-WAJLMSuXGDjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498270152739-3eajl9n8n13n4bo8nqjthl5r8eh4n9b3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498270152739-8bvbrfk8sfq708125ukgpr6acfn8ra92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.imgtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
